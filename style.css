@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+header {
+    background-color:#2C3139 ;
+    border: 1px;
+}
+.list {
+    width: 40px;
+    height: 28px;
+}
+.logo{ 
+    height: 63px;
+    width: 58px;
+}
+.search-icon{
+    width: 28.44px;
+    height: 32.85px;
+}
+.search {
+    width: 560px;
+    height: 60px;
+}
+.favourites{
+    width: 37px;
+    height: 34px;
+}
+.shopping{
+    width: 40px;
+    height: 40px;
+}
+.registration{
+    width: 40px;
+    height: 44.11px;
+}
